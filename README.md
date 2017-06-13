@@ -2,11 +2,21 @@
 
 You can actually go straight to the Github Pages below and directly debug that page!
 
-DEMO LINK:
+DEMO:    https://jmk2142.github.io/Debugger
+YOUTUBE: https://youtu.be/RdF7j4no0Ts
 
 This demonstration application includes most of the basic materials we've covered so far. It is designed not necessarily as an efficient program, but rather to demonstrate how we can use the `debugger` tool to learn more about the basic concepts as they are applied in context.
 
-## Concepts We Debug
+## Debug Tool Concepts
+- Breakpoints and Pause/Resume
+- Stepping OVER, INTO, OUT OF functions
+- Tool provided annotations
+- Interacting with code to get more information
+	- Evaluating to console
+	- Selecting and inspecting parts
+- How these relate to STATE, SEQUENCE, CAUSALITY
+
+## Programming Concepts We Debug
 
 - Variables
 - Operators
