@@ -2,9 +2,11 @@
 
 You can actually go straight to the Github Pages below and directly debug that page!
 
-REPO:    https://github.com/jmk2142/TodoMSTU5003
-DEMO:    https://jmk2142.github.io/Debugger
-YOUTUBE: https://youtu.be/RdF7j4no0Ts
+TODO REPO:    https://github.com/jmk2142/TodoMSTU5003
+TODO DEMO:    https://jmk2142.github.io/TodoMSTU5003
+DEBUG REPO:   https://github.com/jmk2142/Debugger
+DEBUG DEMO:   https://jmk2142.github.io/Debugger
+YOUTUBE:      https://youtu.be/RdF7j4no0Ts
 
 This demonstration application includes most of the basic materials we've covered so far. It is designed not necessarily as an efficient program, but rather to demonstrate how we can use the `debugger` tool to learn more about the basic concepts as they are applied in context.
 
