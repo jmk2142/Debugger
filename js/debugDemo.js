@@ -28,10 +28,10 @@ function updatePage() {
 	var greetingEl = document.querySelector('#greeting');
 	var ageEl;
 
-	greetingEl.innerText = getGreeting(user.username);
+	greetingEl.textContent = getGreeting(user.username);
 
 	ageEl = document.querySelector('#age');
-	ageEl.innerText = user.age;
+	ageEl.textContent = user.age;
 
 	updateHobbies();
 }
